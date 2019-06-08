@@ -63,7 +63,7 @@ body {
   min-width: 13.5em;
   height: 100%;
   min-height: 11.0em;
-  background-image: url("image/Moonlight.svg");
+  background-image: url("../image/Moonlight.svg");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: left center;
